@@ -1,0 +1,2 @@
+#GIT VAJA
+Patrik Zizek
